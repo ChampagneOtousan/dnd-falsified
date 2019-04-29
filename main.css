@@ -13,3 +13,25 @@
   position: relative;
 
 }
+
+.navHeaders {
+  float: left;
+  margin: 0;
+  height: 60px;
+  list-style-type: none;
+  width: 700px;
+
+
+}
+
+li {
+  position: relative;
+  display: inline;
+  padding: 10px 12px;
+  width: 200px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  font-family: sans-serif;
+
+}
