@@ -1,3 +1,7 @@
+div {
+  display: block;
+}
+
 .picture-grid {
   width: 7px;
   margin-top: 0;
