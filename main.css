@@ -1,3 +1,65 @@
+#topbar {
+  height: 60px;
+  margin: 0 auto;
+  width: 100%;
+  align-items: center;
+  display: flex;
+
+}
+
+.dndPic {
+  width: 124px;
+  height: 64px;
+  position: relative;
+}
+
+.navHeaders {
+  float: left;
+  margin: 0;
+  height: 60px;
+  list-style-type: none;
+  width: 100%;
+
+
+}
+
+.nHList {
+  position: relative;
+  display: inline;
+  padding: 10px 12px;
+  width: 200px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+.ndlist {
+  position: fixed;
+}
+
+.ddlist {
+  display: block;
+  z-index: 10;
+  position: relative;
+}
+
+.sLink {
+  text-decoration: none;
+  margin-top: 5px;
+  float: right;
+  /* margin-left: 3%; */
+}
+
+div {
+  display: block;
+}
+
+
+.picture-grid {
+  width: 50%;
+}
 
 .sections {
   display: grid;
@@ -8,10 +70,6 @@
   font-size: 20px;
 }
 
-.links div{
-  display: grid;
-  grid-template: 20% 20% 20% 20% 20%;
-
 body {
   background-image: url('https://assets1.ignimgs.com/2019/04/04/dndliveannounce-brv2-1554417443431_1280w.jpg');
 }
@@ -21,4 +79,8 @@ h1 {
   font-size: 40px;
   font-family: sans-serif;
   color: darkred;
+  }
+
+  .legal-links {
+    text-align: center;
   }
