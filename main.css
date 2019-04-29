@@ -36,6 +36,16 @@ li {
 
 }
 
-ul li:hover {
+.ndlist {
+  position: fixed;
+}
+
+.ddlist {
+  display: block;
+  z-index: 10;
+  position: relative;
+}
+
+.sLink {
   
 }
