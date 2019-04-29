@@ -53,6 +53,7 @@ div {
   display: block;
 }
 
+
 .picture-grid {
   width: 50%;
 }
@@ -63,7 +64,7 @@ div {
   grid-template: 300px / 20% 20% 20%;
   color: whitesmoke;
   background: url("https://geekandsundry.com/wp-content/uploads/2016/12/featured-dnd-holiday.png");
-  font-size: 28px;
+  font-size: 20px;
 }
 
 body {
