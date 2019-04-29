@@ -18,7 +18,7 @@
   margin: 0;
   height: 60px;
   list-style-type: none;
-  width: 700px;
+  width: 100%;
 
 
 }
@@ -47,6 +47,9 @@
 
 .sLink {
   text-decoration: none;
+  margin-top: 5px;
+  float: right;
+  /* margin-left: 3%; */
 }
 
 div {
