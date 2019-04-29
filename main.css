@@ -1,4 +1,16 @@
 body {
   background-image: url('https://assets1.ignimgs.com/2019/04/04/dndliveannounce-brv2-1554417443431_1280w.jpg');
-  
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  color: darkred;
+}
+
+.image-grid {
+  display: grid;
+  grid-template: 300px 300px / 300px 300px;
+  grid-gap: 8%;
 }
