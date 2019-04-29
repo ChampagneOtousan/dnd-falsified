@@ -1,14 +1,4 @@
 body {
-  text-align: center;
-  background-image: url('https://media.comicbook.com/2018/03/dnd-monsters-1093421.jpeg');
-}
-
-h1 {
-  text-align: center;
-}
-
-.image-grid {
-  display: grid;
-  grid-template: 300px 300px / 300px 300px;
-  grid-gap: 8%;
+  background-image: url('https://assets1.ignimgs.com/2019/04/04/dndliveannounce-brv2-1554417443431_1280w.jpg');
+  
 }
